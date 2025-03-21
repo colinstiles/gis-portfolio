@@ -342,6 +342,21 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 * Fixed z-index / scrolling issue with mobile menu
 * Mobile menu now closes once a nav element is hit
 
-## License
+## Professional Portfolio - Colin T. Stiles, GISP
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+[![GitHub Badge](https://img.shields.io/github/followers/colinstiles?style=social)](https://github.com/colinstiles?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/)
+[![Medium](https://img.shields.io/badge/Medium-00ab6c?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij4KICAgIDxwYXRoIGQ9Ik03Mi44IDEyNy42YzAtMjQuNC01LjgtNDIuNC0xNy4zLTU0LjktMTEuNi0xMi41LTI3LjUtMTguNy00OC45LTE4LjctMjAuNiAwLTM3LjYgNi4yLTQ5LjIgMTguNy0xMS41IDEyLjUtMTcgMzAuNS0xNy4zIDU0Ljl2MTEuNmMwIDI0LjIgNS43IDQyLjEgMTcuMiA1NC43IDExLjYgMTIuNiAyNy42IDE4LjggNDkuMSAxOC44IDIwLjcgMCAzNy42LTYuMyA0OS4yLTE4LjggMTEuNS0xMi42IDE3LjMtMzAuNSAxNy4zLTU0Ljl2LTExLjVtOTguNiA1NC45Yy0yMy44IDAtNDEuOS02LjMtNTQuMi0xOC44LTExLjUtMTIuNi0xNy4zLTMwLjUtMTcuMy01NC43VjcyaC0xMS43djExMmMwIDI0LjQgNS43IDQyLjQgMTcuMyA1NSAxMS41IDEyLjUgMjcuNiAxOC43IDQ4LjkgMTguNyAyMC40IDAgMzYuNC02LjIgNDguOS0xOC43IDExLjYtMTIuNiAxNy4zLTMwNi5xIDE3LjMtNTUuOSIgZmlsbD0iIzA0MzZmNyIvPjwvc3ZnPg==)](https://medium.com/@colintimothystiles)
+
+Colin is a GIS Professional that specializes in solving geospatial and environmental challenges for clients across the United States; in industries ranging from solar and renewable energies, telecommunications, natural gas, power delivery, contamination remediation, habitat and species conservation, stream restoration and mitigation banking, roadway and land development, and much more.
+---
+
+### Projects:
+
+[![🌎ArcGIS toolboxes](https://img.shields.io/badge/%F0%9F%8C%8E%20ArcGIS-Toolboxes-red)](#)
+- [toolbox](link) | [toolbox](link)
+
+[![Python Packages](https://img.shields.io/badge/Python-Packages-3776AB?logo=python&logoColor=fff)](#)
+- [package](link) | [package](link)
+
+---
