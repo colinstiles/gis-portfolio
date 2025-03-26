@@ -74,12 +74,12 @@ header {
     animation-iteration-count: 1;
     animation-timing-function: ease;
     animation-duration: 0.75s;
-    background: transparent; /* Make the header background transparent */
+    background: #b9bfc4;
 }
 
 header ul {
     display: inline-block;
-    background: transparent;
+    background: #b9bfc4;
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -290,7 +290,7 @@ footer {
 }
 
 #lead-content h1 {
-    color: #fff;
+    color: #37543d;
     font-weight: 900;
     font-size: 5em;
     text-transform: uppercase;
