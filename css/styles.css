@@ -74,12 +74,12 @@ header {
     animation-iteration-count: 1;
     animation-timing-function: ease;
     animation-duration: 0.75s;
-    background: #b9bfc4;
+    background: transparent;
 }
 
 header ul {
     display: inline-block;
-    background: transparent;
+    background: #b9bfc4;
     text-align: center;
     padding: 10px;
     margin: 0;
