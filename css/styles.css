@@ -629,6 +629,12 @@ footer {
     font-size: 0.9em;
 }
 
+#contact a {
+    color: #fff;
+    margin: 0 0 15px 0;
+    font-size: 0.9em;
+}
+
 .optional-section {
     padding: 50px 15px;
     text-align: center;
