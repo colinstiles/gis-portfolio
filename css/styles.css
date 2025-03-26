@@ -79,7 +79,7 @@ header {
 
 header ul {
     display: inline-block;
-    background: #c2c2c2;
+    background: #eee;
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -103,7 +103,7 @@ header a {
 header a:hover {
     color: #37543d;
     text-decoration: none;
-    background: #eee;
+    background: #c2c2c2;
     border-radius: 4px;
 }
 
@@ -577,6 +577,10 @@ footer {
 .project-info {
     padding: 15px;
     text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: calc(100% - 200px);
 }
 
 .project-info h3 {
@@ -598,6 +602,8 @@ footer {
     background-color: #37543d;
     color: #fff;
     text-decoration: none;
+    text-align: center;
+    margin-top: auto;
     border-radius: 4px;
     transition: background-color 0.3s ease;
     font-size: 0.9em;
@@ -614,6 +620,7 @@ footer {
 .project.gallery .project-info{
     margin: 0;
     padding: 15px;
+    height: auto;
 }
 
 .project.gallery .gallery-item {
@@ -642,6 +649,7 @@ footer {
     }
     .project-info {
         padding: 10px;
+        height: auto;
     }
     .project-info h3{
         font-size: 1em;
