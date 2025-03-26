@@ -365,12 +365,6 @@ footer {
     border-bottom: 1px solid #dcd9d9;
 }
 
-#about .col-md-4 {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
 #about h2 {
     color: #37543d;
 }
@@ -378,12 +372,6 @@ footer {
 #about p {
     color: #74808a;
     margin: 0;
-}
-
-#about img {
-    max-width: 100px;
-    height: auto;
-    display: block;
 }
 
 #experience {
