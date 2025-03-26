@@ -79,7 +79,7 @@ header {
 
 header ul {
     display: inline-block;
-    background: #b9bfc4;
+    background: #c2c2c2;
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -96,7 +96,7 @@ header li {
 
 header a {
     display: block;
-    color: #c2c2c2;
+    color: #37543d;
     padding: 10px;
 }
 
