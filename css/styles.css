@@ -374,6 +374,13 @@ footer {
     margin: 0;
 }
 
+#about img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
+
 #experience {
     padding: 50px 15px;
     text-align: center;
