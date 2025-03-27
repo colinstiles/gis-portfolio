@@ -296,7 +296,11 @@ footer {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 0.9em;
-    text-shadow: -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee, -2px -2px 0 #eee;
+    text-shadow:
+    -2px -2px 0 #eee,
+    2px -2px 0 #eee,
+    -2px 2px 0 #eee,
+    2px 2px 0 #eee;
 }
 
 #lead-content h2 {
