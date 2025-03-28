@@ -1,4 +1,4 @@
-# Dev Portfolio
+# GIS Portfolio
 
 This is my [GIS portfolio](https://colinstiles.github.io/gis-portfolio) hosted on GitHub Pages. Thanks to Ryan Fitzgerald for the template, created with Sass and JavaScript as a easily customizable, lightweight, and fully responsive static site.
 
@@ -9,7 +9,7 @@ This is my [GIS portfolio](https://colinstiles.github.io/gis-portfolio) hosted o
 * Sass ready with lots of commenting
 * Fully responsive
 * Comes with Bootstrap grid system
-* Easy colour changes can be done through simple variable edits
+* Easy color changes can be done through simple variable edits
 
 ## Contents
 
