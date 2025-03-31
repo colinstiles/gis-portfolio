@@ -1,15 +1,6 @@
 # GIS Portfolio
 
-This is my [GIS portfolio](https://colinstiles.github.io/gis-portfolio) hosted on GitHub Pages. Thanks to Ryan Fitzgerald for the template, created with Sass and JavaScript as a easily customizable, lightweight, and fully responsive static site.
-
-
-## Features
-
-* Gulp ready (compiles Sass and minifies JS)
-* Sass ready with lots of commenting
-* Fully responsive
-* Comes with Bootstrap grid system
-* Easy color changes can be done through simple variable edits
+This is my [GIS portfolio](https://colinstiles.github.io/gis-portfolio) hosted on GitHub Pages. Thanks to Ryan Fitzgerald for the template, created with SCSS, CSS, HTML, and JavaScript as an easily customizable, lightweight, and fully responsive static site.
 
 ## Contents
 
@@ -148,10 +139,8 @@ The Contact section includes a link to my personal email.
 
 ### Footer Section
 
-The Footer contains a list of my social related profiles, which only includes:
+The Footer contains a list of my social related profiles, which includes:
 
 *   [GitHub](https://github.com/colinstiles)
 *   [LinkedIn](https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/)
 *   [Medium](https://www.medium.com/@colintimothystiles)
-
-an optional copyright where you can place your name as well as an unordered list of all of your social or coding related profiles. By default it contains Github, Stack Overflow, Facebook, Twitter, and Google Plus. You can add or remove them easily and simply use the Font Awesome icon associated with the social profile you wish to use. For a list of all icons, [click here](http://fontawesome.io/icons/).
